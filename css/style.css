@@ -63,3 +63,11 @@
         right: 100%;
     }
 }
+
+/* gambiarra celular */
+
+@media screen and (max-width: 500px) {
+    .jump {
+        animation: jump 1s ease-out;
+    }
+}
